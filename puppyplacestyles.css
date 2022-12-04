@@ -1,0 +1,42 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+ 
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid black;
+}
+ 
+tr:hover {
+    background-color: grey;
+}
+ 
+p {
+    color: blue;
+}
+ 
+h1 {
+    color: green;
+}
+ 
+h3 {
+    color: green;
+}
+ 
+.shadow-text {
+    text-shadow: 30px;
+}
+ 
+#large-paragraph {
+    font-size: 30px;
+}
+ 
+.every-odd li:nth-child(odd) {
+    background-color: grey;
+}
+ 
+form {
+    background-color: grey;
+}
